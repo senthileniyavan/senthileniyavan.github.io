@@ -1,0 +1,44 @@
+.navbar-brand{
+	height:75px
+}
+.navbar.navbar-transparent{
+	background-color:#000000;
+}
+.navbar{
+	margin-bottom:0px;
+}
+.navbar.navbar-transparent li a {
+    color: white;
+}
+.navbar.navbar-transparent li a:hover{
+	
+    color: black;
+}
+.navbar-nav>li>a {
+	    padding-top: 25px;
+}
+body{
+	font-size: 16px;
+	color:white;
+}
+#img
+{
+	bottom:6em;
+	padding-top:0px;
+	width:100%;
+	
+}
+#left{
+	padding-right:0px;
+	
+}
+#right{
+	padding-left:0px;
+}
+.jumbotron{
+	padding-bottom:77px;
+	margin-bottom:0px;
+}
+
+
+
